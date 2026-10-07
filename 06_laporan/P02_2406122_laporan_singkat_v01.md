@@ -1,9 +1,6 @@
-No. Temuan                  Perbaikan yang diperlukan        Alasan
-1.  Mahasiswa Kelola        Ubah jadi Lihat Jadwal           Mahasiswa hanya melihat jadwal.
-    Jadwal
-2.  Mahasiswa hanya         Hubungkan Admin Kelola Jadwal    Admin mengelola jadwal
-    melihat jadwal
-3.  Nama Use Case           Gunakan kata kerja              Menunjukkan aktivitas aktor.
-    kurang tepat
-4.  Relasi aktor kurang     Perbaiki hubungan aktor         Agar sesuai fungsi sistem.
-    sesuai   
+| No. | Temuan | Perbaikan yang diperlukan | Alasan |
+|---|---|---|---|
+| 1 | Mahasiswa terhubung dengan Kelola Jadwal Kuliah | Ubah menjadi Lihat Jadwal Kuliah | Mahasiswa hanya memiliki hak untuk melihat jadwal. |
+| 2 | Admin Akademik belum terhubung dengan Kelola Jadwal Kuliah | Hubungkan Admin Akademik dengan Kelola Jadwal Kuliah | Admin Akademik bertugas mengatur jadwal kuliah. |
+| 3 | Nama use case kurang menunjukkan aktivitas | Gunakan Lihat Jadwal Kuliah dan Kelola Jadwal Kuliah | Nama use case sebaiknya menunjukkan aktivitas. |
+| 4 | Hubungan aktor belum sesuai | Perbaiki relasi aktor dengan use case | Agar sesuai dengan tugas masing-masing aktor. |
