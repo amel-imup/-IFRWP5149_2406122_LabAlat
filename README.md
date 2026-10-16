@@ -1,3 +1,3 @@
 2406122
 Ina Amelia Cantika
-Pertemuan 2 Unified Modelling Language (UML)
+Pertemuan 3 USE CASE DIAGRAM DAN USE CASE DESCRIPTION
