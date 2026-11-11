@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="weL-YawlCuKvfmsa1PDG">
-        <mxGraphModel dx="615" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="549" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -8,7 +8,7 @@
                     <mxGeometry height="810" width="510" x="450" y="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-2" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="Lihat jadwal&#xa;kuliah" vertex="1">
-                    <mxGeometry height="60" width="110" x="40" y="90" as="geometry"/>
+                    <mxGeometry height="60" width="110" x="50" y="140" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-3" edge="1" parent="HktWbSU7x3o-g3ix-uyr-1" source="HktWbSU7x3o-g3ix-uyr-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;startArrow=classic;startFill=1;dashed=1;">
                     <mxGeometry relative="1" as="geometry">
@@ -18,14 +18,17 @@
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-4" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="Progres &#xa;keputusan KRS" vertex="1">
                     <mxGeometry height="60" width="110" x="270" y="200" as="geometry"/>
                 </mxCell>
+                <mxCell id="EBpposKyXKerScHE5B0u-5" edge="1" parent="HktWbSU7x3o-g3ix-uyr-1" source="HktWbSU7x3o-g3ix-uyr-5" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="HktWbSU7x3o-g3ix-uyr-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-5" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="ajukan KRS" vertex="1">
-                    <mxGeometry height="60" width="110" x="40" y="170" as="geometry"/>
+                    <mxGeometry height="60" width="110" x="45" y="230" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-6" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="Validasi KRS" vertex="1">
-                    <mxGeometry height="60" width="110" x="40" y="330" as="geometry"/>
+                    <mxGeometry height="60" width="110" x="45" y="310" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-7" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="unduh&#xa; bukti pengajuan&#xa;KRS" vertex="1">
-                    <mxGeometry height="60" width="110" x="170" y="400" as="geometry"/>
+                    <mxGeometry height="60" width="110" x="170" y="310" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-8" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="kelola &#xa;jadwal kuliah" vertex="1">
                     <mxGeometry height="60" width="110" x="270" y="100" as="geometry"/>
@@ -36,20 +39,14 @@
                         <mxPoint x="240" y="90" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="HktWbSU7x3o-g3ix-uyr-10" edge="1" parent="HktWbSU7x3o-g3ix-uyr-1" source="HktWbSU7x3o-g3ix-uyr-5" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HktWbSU7x3o-g3ix-uyr-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
-                    <mxGeometry relative="1" width="160" as="geometry">
-                        <mxPoint x="-100" y="230" as="sourcePoint"/>
-                        <mxPoint x="60" y="230" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-11" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="Lihat kalender &#xa;akademik" vertex="1">
-                    <mxGeometry height="60" width="110" x="40" y="440" as="geometry"/>
+                    <mxGeometry height="60" width="110" x="50" y="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-12" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="Lihat KHS" vertex="1">
                     <mxGeometry height="60" width="110" x="45" y="520" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-13" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="kelola data&#xa;mahasiswa" vertex="1">
-                    <mxGeometry height="60" width="110" x="140" y="580" as="geometry"/>
+                    <mxGeometry height="60" width="110" x="150" y="570" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-14" edge="1" parent="HktWbSU7x3o-g3ix-uyr-1" source="HktWbSU7x3o-g3ix-uyr-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;" target="HktWbSU7x3o-g3ix-uyr-13">
                     <mxGeometry relative="1" as="geometry"/>
@@ -76,7 +73,7 @@
                     <mxGeometry height="60" width="110" x="270" y="490" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-22" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;" value="input nilai&#xa;matakuliah" vertex="1">
-                    <mxGeometry height="60" width="110" x="270" y="560" as="geometry"/>
+                    <mxGeometry height="60" width="110" x="120" y="410" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-23" edge="1" parent="HktWbSU7x3o-g3ix-uyr-1" source="HktWbSU7x3o-g3ix-uyr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="HktWbSU7x3o-g3ix-uyr-22">
                     <mxGeometry relative="1" as="geometry"/>
@@ -84,17 +81,17 @@
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-24" parent="HktWbSU7x3o-g3ix-uyr-1" style="ellipse;dashed=1;" value="input nilai&#xa;matakuliah" vertex="1">
                     <mxGeometry height="60" width="110" x="400" y="560" as="geometry"/>
                 </mxCell>
-                <mxCell id="HktWbSU7x3o-g3ix-uyr-25" edge="1" parent="1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="HktWbSU7x3o-g3ix-uyr-2">
+                <mxCell id="HktWbSU7x3o-g3ix-uyr-25" edge="1" parent="1" source="HktWbSU7x3o-g3ix-uyr-35" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="HktWbSU7x3o-g3ix-uyr-2">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="240" y="280" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="HktWbSU7x3o-g3ix-uyr-26" edge="1" parent="1" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" target="HktWbSU7x3o-g3ix-uyr-5">
+                <mxCell id="HktWbSU7x3o-g3ix-uyr-26" edge="1" parent="1" source="HktWbSU7x3o-g3ix-uyr-35" style="edgeStyle=none;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="HktWbSU7x3o-g3ix-uyr-5">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="240" y="290" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="HktWbSU7x3o-g3ix-uyr-27" edge="1" parent="1" style="edgeStyle=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="HktWbSU7x3o-g3ix-uyr-6">
+                <mxCell id="HktWbSU7x3o-g3ix-uyr-27" edge="1" parent="1" source="HktWbSU7x3o-g3ix-uyr-35" style="edgeStyle=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="HktWbSU7x3o-g3ix-uyr-6">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="240" y="290" as="sourcePoint"/>
                     </mxGeometry>
@@ -111,21 +108,14 @@
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-31" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Admin Akademik&lt;/div&gt;" vertex="1">
                     <mxGeometry height="60" width="30" x="960" y="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="HktWbSU7x3o-g3ix-uyr-32" edge="1" parent="1" source="HktWbSU7x3o-g3ix-uyr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="240" y="280" as="targetPoint"/>
-                    </mxGeometry>
+                <mxCell id="EBpposKyXKerScHE5B0u-2" edge="1" parent="1" source="HktWbSU7x3o-g3ix-uyr-33" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="HktWbSU7x3o-g3ix-uyr-12">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-33" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Dosen&lt;/div&gt;" vertex="1">
-                    <mxGeometry height="60" width="30" x="270" y="340" as="geometry"/>
+                    <mxGeometry height="60" width="30" x="240" y="420" as="geometry"/>
                 </mxCell>
-                <mxCell id="HktWbSU7x3o-g3ix-uyr-34" edge="1" parent="1" source="HktWbSU7x3o-g3ix-uyr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="240" y="280" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="HktWbSU7x3o-g3ix-uyr-35" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Mahasiswa&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-                    <mxGeometry height="60" width="30" x="180" y="340" as="geometry"/>
+                <mxCell id="EBpposKyXKerScHE5B0u-1" edge="1" parent="1" source="HktWbSU7x3o-g3ix-uyr-36" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="HktWbSU7x3o-g3ix-uyr-11">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="HktWbSU7x3o-g3ix-uyr-36" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;civitas akademika&lt;/div&gt;" vertex="1">
                     <mxGeometry height="60" width="30" x="230" y="170" as="geometry"/>
@@ -140,6 +130,12 @@
                     <mxGeometry relative="1" x="0.8097" y="-6" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="EBpposKyXKerScHE5B0u-3" edge="1" parent="1" source="HktWbSU7x3o-g3ix-uyr-33" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.052;entryY=0.248;entryDx=0;entryDy=0;entryPerimeter=0;" target="HktWbSU7x3o-g3ix-uyr-22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="HktWbSU7x3o-g3ix-uyr-35" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Mahasiswa&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="30" x="230" y="270" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
